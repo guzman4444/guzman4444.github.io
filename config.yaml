@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://guzman4444.github.io
 
 languageCode: en-us
 title: "John's Blog"
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/guzman4444/guzman4444.github.io.git
   # Default branch of your Git repo
   gitBranch: main
 
@@ -69,10 +69,10 @@ params:
   features:
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -88,7 +88,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -128,7 +128,7 @@ params:
       enabled: true
       # Google Analytics
       google:
-        id: G-H4LBG7NDFZ
+        id: G-7W7NTPMDFR
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
@@ -184,7 +184,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
