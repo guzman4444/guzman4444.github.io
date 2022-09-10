@@ -1,10 +1,5 @@
 # section information
 section:
-  name: Skills
-  id: skills
-  enable: true
-  weight: 2# section information
-section:
   name: Projects
   id: projects
   enable: true
