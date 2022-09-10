@@ -1,64 +1,51 @@
 # section information
 section:
-  name: Projects
-  id: projects
+  name: Skills
+  id: skills
   enable: true
-  weight: 5
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R Studio
+  logo: /images/sections/skills/rs.png
+#  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://www.rstudio.com/"
 
-# your projects
-projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Python
+  logo: /images/sections/skills/python.jpeg
+#  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://www.python.org/"
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: SQL
+  logo: /images/sections/skills/sql.png
+#  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#  url: "https://github.com/"
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+#  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Microsoft Office
+  logo: /images/sections/skills/office2.jpeg
+#  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  url: "https://www.office.com/"
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Linux
+  logo: /images/sections/skills/linux.png
+#  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+#  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: HTML
+  logo: /images/sections/skills/html.png
+#  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  
