@@ -94,3 +94,9 @@ degrees:
   - Outing Club
   - Union Latinx
   - Videogame Club
+
+  extracourses: #(optional)
+  - Chess Club
+  - Outing Club
+  - Union Latinx
+  - Videogame Club
