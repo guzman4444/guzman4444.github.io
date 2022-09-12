@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a recent graduate who has interests In various fields leading me to have a double minor in Economics and Psychology. I try to incorporate some underlying principles from these fields and more into my work allowing me to think outside the box. I have previously worked on very diverse projects ranging from virtual games to more complicated endeavors like establishing an online database. I have worked on projects on my own and in both mid and large-sized groups. Through these experiences, I have had opportunities to develop interpersonal skills and my abilities with every adversity that had risen. With this in mind, I am looking to apply the skills that I have developed so far to databases and wrangling data so that I can continue to grow with those around me. I would be interested in opportunities that allow for growth and new learning opportunities the most.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -34,7 +34,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/feed/"
+  url: "https://www.linkedin.com/in/ramon-guzman-29965716b/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
