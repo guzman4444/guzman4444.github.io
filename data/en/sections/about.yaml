@@ -72,9 +72,15 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Dependable
   percentage: 100
   color: orange
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 100
+  color: orange
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

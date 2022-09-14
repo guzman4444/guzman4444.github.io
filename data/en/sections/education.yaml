@@ -65,6 +65,19 @@ degrees:
 
     - name: Bioinformatics
 
+    - name: OTHER COURSES
+
+    - name: Business and Managerial Economics
+
+    - name: Microeconomic Theory
+
+    - name: Principals of Marketing
+
+    - name: Introduction to Microeconomics
+
+    - name: Introduction to Macroeconomics
+
+
   otherCourses:
   - name: Macroeconomics
 #      achieved: 3.75
