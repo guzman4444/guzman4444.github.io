@@ -64,7 +64,6 @@ degrees:
     - name: Software Innovation
 
     - name: Bioinformatics
-  morecourses:
 
     - name: OTHER COURSES
 
@@ -77,6 +76,18 @@ degrees:
     - name: Introduction to Microeconomics
 
     - name: Introduction to Macroeconomics
+
+    - name: EVEN MORE COURSES
+
+    - name: Cognitive Psychology
+    
+    - name: Research Methods
+
+    - name: Abnormal Behavior
+
+    - name: Psychology of BIPOC experience
+
+    - name: Foundations of Psychology
 
 
   otherCourses:
