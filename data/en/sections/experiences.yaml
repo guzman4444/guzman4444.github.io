@@ -8,6 +8,8 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
+
+
 # Your experiences
 experiences:
 - company:
@@ -35,6 +37,57 @@ experiences:
 #    - Implement and test xyz feature for abc tool.
 #    - Support client for abc tool.
 #    - Learn k,d,w technology for xyz.
+- company:
+    name: Entrepreneur
+    location: Phoenix, AZ
+    overview: Completed "Sale to Order" and "Procure to Pay" to meet client standards.
+  positions:
+  - designation: Entrepreneur
+    start: May 2016
+    end: February 2017
+    responsibilities:
+    - Obtaining proper licensing for food product handling and business development
+    - Maintained high standards of customer service during high-volume, fast-paces operations.
+    - Developed budgets for inventory(ie. Ingredients)
+
+- company:
+    name: Landscaping
+    location: Phoenix, AZ
+    overview: Oversaw projects completion while following regulation and staying with in budget.
+  positions:
+  - designation: Foreman
+    start: February 2017
+    end: April 2018
+    responsibilities:
+    - Managed, supervised, and coordinated a team of professionals to ensure projects completing with in parameters.
+    - Cross-trained and coordinated scheduling with team members to ensure seamless service.
+    - Communicated with managers and proactively participated in meetings with management in order to present project status.
+
+- company:
+    name: Popeye's
+    location: Phoenix, AZ
+    overview: Managed team members to provide excellent service to clients.
+  positions:
+  - designation: Shift Manager
+    start: April 2018
+    end: August 2018
+    responsibilities:
+    - Obtaining proper licensing for food product handling and business development.
+    - Maintained high standards of customer service during high-volume, fast-paces operations.
+    - Developed budgets for inventory(ie. Ingredients).
+
+- company:
+    name: Dulceria La Flor
+    location: Phoenix, AZ
+    overview: Managed store front to manage team members and assist clients.
+  positions:
+  - designation: Shift Manager
+    start: May 2019
+    end: August 2019
+    responsibilities:
+    - Responsible for operational, financial, and people management.
+    - Resolve questions and concerns quickly and equitably.
+    - Assisted with inventory control and stock organizing.
 
 - company:
     name: Allegheny College
@@ -50,6 +103,7 @@ experiences:
     - Keep inventory of building supplies
     - Coordinate with professors with specific projects
 
+
 #- company:
 #    name: Intern Counting Company (ICC).
 #    url: "https://www.example.com"
@@ -63,3 +117,16 @@ experiences:
 #    - Count lost of interns.
 #    - Count more interns.
 #    - Count me as an intern.
+
+- company:
+    name: Open Source Integrators
+    location: Gilbert, AZ
+    overview: Developing software to meet client needs with Enterprise Resource Planning (ERP).
+  positions:
+  - designation: Software Developer
+    start: Jan 2023
+    end: April 2023
+    responsibilities:
+    - ODOO (ERP) Development
+    - Large focus on Python, XML, and some JavaScript to create software and resolve modular issues.
+    - POSTGRES and SQL for data migrations between databases of varying architecture.

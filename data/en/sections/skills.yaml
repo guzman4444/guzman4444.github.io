@@ -48,4 +48,19 @@ skills:
 - name: HTML
   logo: /images/sections/skills/html.png
 #  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: JavaScript
+  logo: /images/sections/skills/js.png
+  summary: "Know intermediate JavaScript programming. Used for website programming and problem solving."
+
+- name: NestJS
+  logo: /images/sections/skills/njs.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: Angular
+  logo: /images/sections/skills/a.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
